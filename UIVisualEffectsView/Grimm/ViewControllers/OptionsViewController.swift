@@ -46,6 +46,58 @@ extension OptionsViewController {
   override func viewDidLoad() {
     super.viewDidLoad()
     scrollView.scrollsToTop = false
+    
+    guard !UIAccessibility.isReduceTransparencyEnabled else {
+      return
+    }
+    
+    view.backgroundColor = .clear
+    
+    let blurEffect = UIBlurEffect(style: .dark)
+    let blurView = UIVisualEffectView(effect: blurEffect)
+    
+    blurView.translatesAutoresizingMaskIntoConstraints = false
+    view.insertSubview(blurView, at: 0)
+    
+    NSLayoutConstraint.activate([
+      blurView.topAnchor.constraint(equalTo: view.topAnchor),
+      blurView.bottomAnchor.constraint(equalTo: view.safeAreaLayoutGuide.bottomAnchor),
+      blurView.heightAnchor.constraint(equalTo: view.heightAnchor),
+      blurView.widthAnchor.constraint(equalTo: view.widthAnchor)
+    ])
+    
+    let vibrancyEffect = UIVibrancyEffect(blurEffect: blurEffect)
+    let vibrancyView = UIVisualEffectView(effect: vibrancyEffect)
+    vibrancyView.translatesAutoresizingMaskIntoConstraints = false
+    
+    vibrancyView.contentView.addSubview(optionsView)
+    blurView.contentView.addSubview(vibrancyView)
+
+    NSLayoutConstraint.activate([
+      vibrancyView
+        .heightAnchor
+        .constraint(equalTo: blurView.contentView.heightAnchor),
+      vibrancyView
+        .widthAnchor
+        .constraint(equalTo: blurView.contentView.widthAnchor),
+      vibrancyView
+        .centerXAnchor
+        .constraint(equalTo: blurView.contentView.centerXAnchor),
+      vibrancyView
+        .centerYAnchor
+        .constraint(equalTo: blurView.contentView.centerYAnchor)
+    ])
+
+    NSLayoutConstraint.activate([
+      optionsView
+        .centerXAnchor
+        .constraint(equalTo: vibrancyView.contentView.centerXAnchor),
+      optionsView
+        .centerYAnchor
+        .constraint(equalTo: vibrancyView.contentView.centerYAnchor)
+    ])
+
+    
   }
 
   override func viewWillAppear(_ animated: Bool) {
