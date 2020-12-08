@@ -1,4 +1,4 @@
-# iOS Tutorial
+# iOS Tutorial 📱
 
 What articles and courses have I studied from [Raywenderlich's website](http://www.raywenderlich.com/category/ios), [iOScreator](https://www.ioscreator.com), and else.
 
@@ -16,6 +16,11 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Core Image iOS Tutorial](https://github.com/cielgrisdemoscou/ios-tutorial-code/blob/master/iOS12CoreImageTutorial/README.md)
 
 ## **Map & Location APIs**
+
+## **Architecture Patterns**
+* [iOS MVVM Tutorial: Refactoring from MVC](https://www.raywenderlich.com/6733535-ios-mvvm-tutorial-refactoring-from-mvc)
+* [MVVM, MVC, VIPER 전격 비교](https://academy.realm.io/kr/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/)
+
 
 ## **Saving Data**
 
