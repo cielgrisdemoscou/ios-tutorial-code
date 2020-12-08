@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="2dv-RB-nIM">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17125"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Sunset-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="IOS12HideNavBarTutorial" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="sunset_small" translatesAutoresizingMaskIntoConstraints="NO" id="TDm-2z-h6S">
+                                <rect key="frame" x="150.5" y="138" width="113" height="200"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="113" id="6Pv-a9-eYt"/>
+                                    <constraint firstAttribute="height" constant="200" id="ZoW-Bp-Y4y"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="F1q-k1-6ld">
+                                <rect key="frame" x="157.5" y="368" width="99" height="30"/>
+                                <state key="normal" title="Show Full Size"/>
+                                <connections>
+                                    <action selector="showFullSize:" destination="BYZ-38-t0r" eventType="touchUpInside" id="WGw-fZ-gRe"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="TDm-2z-h6S" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="61R-5c-n5k"/>
+                            <constraint firstItem="TDm-2z-h6S" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="50" id="NUC-GS-6cg"/>
+                            <constraint firstItem="F1q-k1-6ld" firstAttribute="top" secondItem="TDm-2z-h6S" secondAttribute="bottom" constant="30" id="eBs-TP-K0b"/>
+                            <constraint firstItem="F1q-k1-6ld" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="k5U-UN-4Md"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" title="Sunset" id="6dg-gG-yeR"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1050.7246376811595" y="118.52678571428571"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="5xn-rO-dIs">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="2dv-RB-nIM" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="3Aj-Jr-yFu">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="tBF-lt-MlL"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ldA-br-n3d" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="140.57971014492756" y="118.52678571428571"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="sunset_small" width="113" height="200"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
