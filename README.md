@@ -13,7 +13,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [iOS AutoLayout 완벽 가이드](https://www.inflearn.com/course/autolayout#)
 
 ## **Graphics & Animation APIs**
-* [Core Image iOS Tutorial](IOS12CoreImageTutorial/README.md)
+* [Core Image iOS Tutorial](https://github.com/cielgrisdemoscou/ios-tutorial-code/blob/master/iOS12CoreImageTutorial/README.md)
 
 ## **Map & Location APIs**
 
