@@ -13,6 +13,8 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Reorder Rows from Table View iOS Tutorial](https://www.ioscreator.com/tutorials/reorder-rows-table-view-ios-tutorial-ios12)
 * [Send iMessage iOS Tutorial](https://www.ioscreator.com/tutorials/send-imessage-ios-tutorial)
 * [Delete Multiple Rows from Table View iOS Tutorial](https://www.ioscreator.com/tutorials/delete-multiple-rows-table-view-ios-tutorial)
+* [UserDefaults iOS Tutorial](https://www.ioscreator.com/tutorials/user-defaults-ios-tutorial)
+* [Airdrop iOS Tutorial](https://github.com/cielgrisdemoscou/ios-tutorial-code/blob/master/IOSAirdropTutorial/README.md)
 * [UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/16125723-uivisualeffectview-tutorial-getting-started)
 * [iOS AutoLayout 완벽 가이드](https://www.inflearn.com/course/autolayout#)
 
@@ -22,9 +24,6 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 ## **Architecture Patterns**
 * [iOS MVVM Tutorial: Refactoring from MVC](https://www.raywenderlich.com/6733535-ios-mvvm-tutorial-refactoring-from-mvc)
 * [MVVM, MVC, VIPER 전격 비교](https://academy.realm.io/kr/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/)
-
-## **Saving Data**
-* [UserDefaults iOS Tutorial](https://www.ioscreator.com/tutorials/user-defaults-ios-tutorial)
 
 ## **Networking**
 * [JSON Parsing iOS Tutorial](https://www.ioscreator.com/tutorials/json-ios-tutorial)
