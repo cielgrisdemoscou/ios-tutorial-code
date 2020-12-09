@@ -12,6 +12,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Delete Rows from Table View iOS Tutorial](https://www.ioscreator.com/tutorials/delete-rows-table-view-ios-tutorial-ios12)
 * [Reorder Rows from Table View iOS Tutorial](https://www.ioscreator.com/tutorials/reorder-rows-table-view-ios-tutorial-ios12)
 * [Send iMessage iOS Tutorial](https://www.ioscreator.com/tutorials/send-imessage-ios-tutorial)
+* [Delete Multiple Rows from Table View iOS Tutorial](https://www.ioscreator.com/tutorials/delete-multiple-rows-table-view-ios-tutorial)
 * [UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/16125723-uivisualeffectview-tutorial-getting-started)
 * [iOS AutoLayout 완벽 가이드](https://www.inflearn.com/course/autolayout#)
 
