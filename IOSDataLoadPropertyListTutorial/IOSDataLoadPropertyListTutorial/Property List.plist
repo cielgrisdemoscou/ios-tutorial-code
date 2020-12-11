@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppleDevice</key>
+	<array/>
+	<key>Item0</key>
+	<string>iPhone</string>
+	<key>Item1</key>
+	<string>iMac</string>
+	<key>Item2</key>
+	<string>iPad</string>
+	<key>Item3</key>
+	<string>MacBook</string>
+	<key>Item4</key>
+	<string>Apple Watch</string>
+</dict>
+</plist>
