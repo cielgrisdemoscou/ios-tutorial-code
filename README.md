@@ -20,6 +20,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Load Data from Property List iOS Tutorial](https://www.ioscreator.com/tutorials/load-data-property-list-ios-tutorial)
 * [Live Rendering iOS Tutorial](https://www.ioscreator.com/tutorials/live-rendering-ios-tutorial)
 * [Screen Edge Pan Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/screen-edge-pan-gesture-ios-tutorial)
+* [PasteBoard iOS Tutorial](https://www.ioscreator.com/tutorials/pasteboard-ios-tutorial)
 * [UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/16125723-uivisualeffectview-tutorial-getting-started)
 * [iOS AutoLayout 완벽 가이드](https://www.inflearn.com/course/autolayout#)
 
