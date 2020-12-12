@@ -9,6 +9,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 
 ## **Views and View Controllers**
 * [Safari View Controller iOS Tutorial](https://www.ioscreator.com/tutorials/safari-view-controller-ios-tutorial)
+* [WKWebView With UIToolbar and UIActivityIndicatorView Tutorial](https://medium.com/@KentaKodashima/ios-wkwebview-tutorial-b7f8cf1bffe0)
 * [Open PDF iOS Tutorial](https://www.ioscreator.com/tutorials/open-pdf-ios-tutorial)
 * [Scroll View with Paging iOS Tutorial](https://www.ioscreator.com/tutorials/scroll-view-paging-ios-tutorial)
 * [Hide Navigation Bar iOS Tutorial](https://www.ioscreator.com/tutorials/hide-navigation-bar-ios-tutorial-ios12)
