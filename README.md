@@ -23,6 +23,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [PasteBoard iOS Tutorial](https://www.ioscreator.com/tutorials/pasteboard-ios-tutorial)
 * [Add Search to Table View iOS Tutorial](https://www.ioscreator.com/tutorials/add-search-table-view-ios-tutorial)
 * [Scroll View with Paging iOS Tutorial](https://www.ioscreator.com/tutorials/scroll-view-paging-ios-tutorial)
+* [Customizing Table View iOS Tutorial](https://www.ioscreator.com/tutorials/customizing-table-view-ios-tutorial)
 * [UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/16125723-uivisualeffectview-tutorial-getting-started)
 * [iOS AutoLayout 완벽 가이드](https://www.inflearn.com/course/autolayout#)
 
