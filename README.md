@@ -25,6 +25,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Scroll View with Paging iOS Tutorial](https://www.ioscreator.com/tutorials/scroll-view-paging-ios-tutorial)
 * [Customizing Table View iOS Tutorial](https://www.ioscreator.com/tutorials/customizing-table-view-ios-tutorial)
 * [Take Photo iOS Tutorial](https://www.ioscreator.com/tutorials/take-photo-ios-tutorial)
+* [Safari View Controller iOS Tutorial](https://www.ioscreator.com/tutorials/safari-view-controller-ios-tutorial)
 * [UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/16125723-uivisualeffectview-tutorial-getting-started)
 * [iOS AutoLayout 완벽 가이드](https://www.inflearn.com/course/autolayout#)
 
