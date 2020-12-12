@@ -9,6 +9,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 
 ## **Views and View Controllers**
 * [Safari View Controller iOS Tutorial](https://www.ioscreator.com/tutorials/safari-view-controller-ios-tutorial)
+* [Open PDF iOS Tutorial](https://www.ioscreator.com/tutorials/open-pdf-ios-tutorial)
 * [Scroll View with Paging iOS Tutorial](https://www.ioscreator.com/tutorials/scroll-view-paging-ios-tutorial)
 * [Hide Navigation Bar iOS Tutorial](https://www.ioscreator.com/tutorials/hide-navigation-bar-ios-tutorial-ios12)
 * [Custom Collection View Cell iOS Tutorial](https://www.ioscreator.com/tutorials/custom-collection-view-cell-ios-tutorial)

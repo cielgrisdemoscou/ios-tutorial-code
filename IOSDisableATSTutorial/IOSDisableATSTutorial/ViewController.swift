@@ -11,9 +11,21 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+       
+        webRequest()
     }
-
+    
+    func webRequest() {
+        let url = NSURL(string: "http://localhost:8000")
+        let task = NSURLSession.sharedSession().dataTaskWithURL(url!) {
+            (data, response, error) in
+            if let dataReturned = data {
+               print(NSString(data: dataReturned, encoding: NSUTF8StringEncoding)!)
+            }
+        }
+            
+        task.resume()
+        }
 
 }
 
