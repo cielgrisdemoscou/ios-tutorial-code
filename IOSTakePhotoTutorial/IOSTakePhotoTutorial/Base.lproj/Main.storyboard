@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17125"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="IOSTakePhotoTutorial" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="wN2-Qr-aSP">
+                                <rect key="frame" x="82" y="94" width="250" height="250"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="exA-1p-Uvu">
+                                <rect key="frame" x="154" y="386" width="106" height="30"/>
+                                <state key="normal" title="Take Photo"/>
+                                <connections>
+                                    <action selector="takePhoto:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ueZ-BA-2ur"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="wN2-Qr-aSP" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="50" id="0Fi-wU-DQ9"/>
+                            <constraint firstItem="exA-1p-Uvu" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="154" id="27W-Fh-Psb"/>
+                            <constraint firstItem="wN2-Qr-aSP" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="82" id="PZv-m7-hAj"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="wN2-Qr-aSP" secondAttribute="bottom" constant="518" id="Qtw-vJ-652"/>
+                            <constraint firstItem="wN2-Qr-aSP" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="keF-IK-dMR"/>
+                            <constraint firstItem="exA-1p-Uvu" firstAttribute="centerX" secondItem="wN2-Qr-aSP" secondAttribute="centerX" id="nKI-wR-c9Q"/>
+                            <constraint firstItem="exA-1p-Uvu" firstAttribute="top" secondItem="wN2-Qr-aSP" secondAttribute="bottom" constant="42" id="u0o-Cd-8ei"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="imageView" destination="wN2-Qr-aSP" id="NGJ-kU-ZU7"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="140.57971014492756" y="118.52678571428571"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
