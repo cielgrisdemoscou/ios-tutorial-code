@@ -49,3 +49,6 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 ## **Saving and Loading Data**
 * [UserDefaults iOS Tutorial](https://www.ioscreator.com/tutorials/user-defaults-ios-tutorial)
 * [Load Data from Property List iOS Tutorial](https://www.ioscreator.com/tutorials/load-data-property-list-ios-tutorial)
+
+## **Other iOS Tutorials**
+* [Play Vibration iOS Tutorial](https://www.ioscreator.com/tutorials/play-vibration-ios-tutorial)
