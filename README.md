@@ -25,6 +25,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Change Display Name iOS Tutorial](https://www.ioscreator.com/tutorials/change-display-name-ios-tutorial)
 * [Multiple Outlets iOS Tutorial](https://www.ioscreator.com/tutorials/multiple-outlets-ios-tutorial)
 * [Tab Bar Customization iOS Tutorial](https://www.ioscreator.com/tutorials/tab-bar-customization-ios-tutorial)
+* [Display Alert iOS Tutorial](https://www.ioscreator.com/tutorials/display-alert-ios-tutorial) 
 * [UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/16125723-uivisualeffectview-tutorial-getting-started)
 * [iOS AutoLayout 완벽 가이드](https://www.inflearn.com/course/autolayout#)
 
