@@ -36,6 +36,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Reorder Rows from Table View iOS Tutorial](https://www.ioscreator.com/tutorials/reorder-rows-table-view-ios-tutorial-ios12)
 * [Customizing Table View iOS Tutorial](https://www.ioscreator.com/tutorials/customizing-table-view-ios-tutorial)
 * [Add Search to Table View iOS Tutorial](https://www.ioscreator.com/tutorials/add-search-table-view-ios-tutorial)
+* [Prototype Cells in Table View iOS Tutorial](https://www.ioscreator.com/tutorials/prototype-cells-table-view-ios-tutorial) 
 
 ## **Graphics & Animation APIs**
 * [Core Image iOS Tutorial](https://github.com/cielgrisdemoscou/ios-tutorial-code/blob/master/iOS12CoreImageTutorial/README.md)
