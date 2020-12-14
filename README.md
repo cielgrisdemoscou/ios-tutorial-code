@@ -24,6 +24,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Change the Color of the Status Bar iOS Tutorial](https://www.ioscreator.com/tutorials/change-color-status-bar-ios-tutorial)
 * [Change Display Name iOS Tutorial](https://www.ioscreator.com/tutorials/change-display-name-ios-tutorial)
 * [Multiple Outlets iOS Tutorial](https://www.ioscreator.com/tutorials/multiple-outlets-ios-tutorial)
+* [Tab Bar Customization iOS Tutorial](https://www.ioscreator.com/tutorials/tab-bar-customization-ios-tutorial)
 * [UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/16125723-uivisualeffectview-tutorial-getting-started)
 * [iOS AutoLayout 완벽 가이드](https://www.inflearn.com/course/autolayout#)
 
