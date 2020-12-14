@@ -51,6 +51,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [URLSession Programming Guide](https://developer.apple.com/documentation/foundation/url_loading_system#//apple_ref/doc/uid/TP40013509-SW1)
 * [JSON Parsing iOS Tutorial](https://www.ioscreator.com/tutorials/json-ios-tutorial)
 * [Parse XML iOS Tutorial](https://www.ioscreator.com/tutorials/parse-xml-ios-tutorial)
+* [Local Notification iOS Tutorial](https://www.ioscreator.com/tutorials/local-notification-ios-tutorial)
 * [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/11395893-push-notifications-tutorial-getting-started)
 
 ## **Saving and Loading Data**
