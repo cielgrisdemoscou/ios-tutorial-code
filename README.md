@@ -43,6 +43,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 ### **Gesture**
 * [Screen Edge Pan Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/screen-edge-pan-gesture-ios-tutorial)
 * [Scale Image with Pinch Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/scale-images-pinch-gesture-ios-tutorial) 
+* [Drag Views with Gestures iOS Tutorial](https://www.ioscreator.com/tutorials/drag-views-gestures-ios-tutorial)
 
 ## **Graphics & Animation APIs**
 * [Core Image iOS Tutorial](https://github.com/cielgrisdemoscou/ios-tutorial-code/blob/master/iOS12CoreImageTutorial/README.md)
