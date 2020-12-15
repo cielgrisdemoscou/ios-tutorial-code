@@ -50,6 +50,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 ## **Graphics & Animation APIs**
 * [Core Image iOS Tutorial](https://github.com/cielgrisdemoscou/ios-tutorial-code/blob/master/iOS12CoreImageTutorial/README.md)
 * [Draw shapes with Core Graphics iOS Tutorial](https://www.ioscreator.com/tutorials/draw-shapes-core-graphics-ios-tutorial)
+* [Rotate Image iOS Tutorial](https://www.ioscreator.com/tutorials/rotate-image-ios-tutorial)
 
 ## **Architecture Patterns**
 * [iOS MVVM Tutorial: Refactoring from MVC](https://www.raywenderlich.com/6733535-ios-mvvm-tutorial-refactoring-from-mvc)
