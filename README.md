@@ -40,9 +40,12 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Add Search to Table View iOS Tutorial](https://www.ioscreator.com/tutorials/add-search-table-view-ios-tutorial)
 * [Prototype Cells in Table View iOS Tutorial](https://www.ioscreator.com/tutorials/prototype-cells-table-view-ios-tutorial) 
 
+### **Gesture**
+* [Screen Edge Pan Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/screen-edge-pan-gesture-ios-tutorial)
+* [Scale Image with Pinch Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/scale-images-pinch-gesture-ios-tutorial) 
+
 ## **Graphics & Animation APIs**
 * [Core Image iOS Tutorial](https://github.com/cielgrisdemoscou/ios-tutorial-code/blob/master/iOS12CoreImageTutorial/README.md)
-* [Screen Edge Pan Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/screen-edge-pan-gesture-ios-tutorial)
 * [Draw shapes with Core Graphics iOS Tutorial](https://www.ioscreator.com/tutorials/draw-shapes-core-graphics-ios-tutorial)
 
 ## **Architecture Patterns**
@@ -67,3 +70,4 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 
 ## **Other iOS Tutorials**
 * [Play Vibration iOS Tutorial](https://www.ioscreator.com/tutorials/play-vibration-ios-tutorial)
+
