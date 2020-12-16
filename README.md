@@ -42,11 +42,13 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Customizing Table View iOS Tutorial](https://www.ioscreator.com/tutorials/customizing-table-view-ios-tutorial)
 * [Add Search to Table View iOS Tutorial](https://www.ioscreator.com/tutorials/add-search-table-view-ios-tutorial)
 * [Prototype Cells in Table View iOS Tutorial](https://www.ioscreator.com/tutorials/prototype-cells-table-view-ios-tutorial) 
+* [Swipe Table View Cell for Custom Actions iOS Tutorial](https://www.ioscreator.com/tutorials/swipe-table-view-cell-custom-actions-ios-tutorial)
 
 ### **Gesture**
 * [Screen Edge Pan Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/screen-edge-pan-gesture-ios-tutorial)
 * [Scale Image with Pinch Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/scale-images-pinch-gesture-ios-tutorial) 
 * [Drag Views with Gestures iOS Tutorial](https://www.ioscreator.com/tutorials/drag-views-gestures-ios-tutorial)
+* [Snap Behaviour iOS Tutorial](https://www.ioscreator.com/tutorials/snap-behaviour-ios-tutorial)
 
 ## **Graphics & Animation APIs**
 * [Core Image iOS Tutorial](https://github.com/cielgrisdemoscou/ios-tutorial-code/blob/master/iOS12CoreImageTutorial/README.md)
