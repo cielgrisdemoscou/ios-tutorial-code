@@ -32,7 +32,6 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Customize Navigation Bar iOS Tutorial](https://www.ioscreator.com/tutorials/customize-navigation-bar-ios-tutorial)
 * [Attributed Strings iOS Tutorial](https://www.ioscreator.com/tutorials/attributed-strings-ios-tutorial)
 * [UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/16125723-uivisualeffectview-tutorial-getting-started)
-* [Pull to Refresh iOS Tutorial](https://www.ioscreator.com/tutorials/pull-to-refresh-ios-tutorial)
 * [Picker View iOS Tutorial](https://www.ioscreator.com/tutorials/picker-ios-tutorial)
 * [iOS AutoLayout 완벽 가이드](https://www.inflearn.com/course/autolayout#)
 
@@ -50,6 +49,8 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Scale Image with Pinch Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/scale-images-pinch-gesture-ios-tutorial) 
 * [Drag Views with Gestures iOS Tutorial](https://www.ioscreator.com/tutorials/drag-views-gestures-ios-tutorial)
 * [Snap Behaviour iOS Tutorial](https://www.ioscreator.com/tutorials/snap-behaviour-ios-tutorial)
+* [Pull to Refresh iOS Tutorial](https://www.ioscreator.com/tutorials/pull-to-refresh-ios-tutorial)
+* [Detect Long Press Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/long-press-gesture-ios-tutorial)
 
 ## **Graphics & Animation APIs**
 * [Core Image iOS Tutorial](https://github.com/cielgrisdemoscou/ios-tutorial-code/blob/master/iOS12CoreImageTutorial/README.md)
