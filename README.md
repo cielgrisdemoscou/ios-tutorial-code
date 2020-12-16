@@ -50,6 +50,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 
 ## **Graphics & Animation APIs**
 * [Core Image iOS Tutorial](https://github.com/cielgrisdemoscou/ios-tutorial-code/blob/master/iOS12CoreImageTutorial/README.md)
+* [Blur Effect iOS Tutorial](https://www.ioscreator.com/tutorials/blur-effect-ios-tutorial)
 * [Draw shapes with Core Graphics iOS Tutorial](https://www.ioscreator.com/tutorials/draw-shapes-core-graphics-ios-tutorial)
 * [Rotate Image iOS Tutorial](https://www.ioscreator.com/tutorials/rotate-image-ios-tutorial)
 * [Collision Detection with UIKit Dynamics iOS Tutorial](https://www.ioscreator.com/tutorials/collision-detection-uikit-dynamics-ios-tutorial)
