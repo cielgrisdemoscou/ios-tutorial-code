@@ -51,6 +51,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Snap Behaviour iOS Tutorial](https://www.ioscreator.com/tutorials/snap-behaviour-ios-tutorial)
 * [Pull to Refresh iOS Tutorial](https://www.ioscreator.com/tutorials/pull-to-refresh-ios-tutorial)
 * [Detect Long Press Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/long-press-gesture-ios-tutorial)
+* [Spring Animation iOS Tutorial](https://www.ioscreator.com/tutorials/spring-animation-ios-tutorial) 
 
 ## **Graphics & Animation APIs**
 * [Core Image iOS Tutorial](https://github.com/cielgrisdemoscou/ios-tutorial-code/blob/master/iOS12CoreImageTutorial/README.md)
