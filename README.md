@@ -82,4 +82,5 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 
 ## **Other iOS Tutorials**
 * [Play Vibration iOS Tutorial](https://www.ioscreator.com/tutorials/play-vibration-ios-tutorial)
+* [Touch ID iOS Tutorial](https://www.ioscreator.com/tutorials/touch-id-ios-tutorial)
 
