@@ -33,6 +33,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Attributed Strings iOS Tutorial](https://www.ioscreator.com/tutorials/attributed-strings-ios-tutorial)
 * [UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/16125723-uivisualeffectview-tutorial-getting-started)
 * [Slider iOS Tutorial](https://www.ioscreator.com/tutorials/slider-ios-tutorial) 
+* [Switch iOS Tutorial](https://www.ioscreator.com/tutorials/switch-ios-tutorial)
 * [Picker View iOS Tutorial](https://www.ioscreator.com/tutorials/picker-ios-tutorial)
 * [Collection View iOS Tutorial](https://www.ioscreator.com/tutorials/collection-view-controller-ios-tutorial)
 * [Dynamic Types iOS Tutorial](https://www.ioscreator.com/tutorials/dynamic-types-ios-tutorial)
