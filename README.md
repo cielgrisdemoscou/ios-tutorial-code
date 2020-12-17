@@ -34,6 +34,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/16125723-uivisualeffectview-tutorial-getting-started)
 * [Slider iOS Tutorial](https://www.ioscreator.com/tutorials/slider-ios-tutorial) 
 * [Picker View iOS Tutorial](https://www.ioscreator.com/tutorials/picker-ios-tutorial)
+* [Collection View iOS Tutorial](https://www.ioscreator.com/tutorials/collection-view-controller-ios-tutorial)
 * [iOS AutoLayout 완벽 가이드](https://www.inflearn.com/course/autolayout#)
 
 ### **Table View Controllers** 
