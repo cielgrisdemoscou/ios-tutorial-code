@@ -67,6 +67,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Draw shapes with Core Graphics iOS Tutorial](https://www.ioscreator.com/tutorials/draw-shapes-core-graphics-ios-tutorial)
 * [Rotate Image iOS Tutorial](https://www.ioscreator.com/tutorials/rotate-image-ios-tutorial)
 * [Collision Detection with UIKit Dynamics iOS Tutorial](https://www.ioscreator.com/tutorials/collision-detection-uikit-dynamics-ios-tutorial)
+* [UIKit Dynamics Attachment Behaviour iOS Tutorial](https://www.ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-ios-tutorial)
 
 ## **Architecture Patterns**
 * [iOS MVVM Tutorial: Refactoring from MVC](https://www.raywenderlich.com/6733535-ios-mvvm-tutorial-refactoring-from-mvc)
