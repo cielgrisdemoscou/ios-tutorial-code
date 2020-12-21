@@ -13,7 +13,6 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Open PDF iOS Tutorial](https://www.ioscreator.com/tutorials/open-pdf-ios-tutorial)
 * [Scroll View with Paging iOS Tutorial](https://www.ioscreator.com/tutorials/scroll-view-paging-ios-tutorial)
 * [Hide Navigation Bar iOS Tutorial](https://www.ioscreator.com/tutorials/hide-navigation-bar-ios-tutorial-ios12)
-* [Custom Collection View Cell iOS Tutorial](https://www.ioscreator.com/tutorials/custom-collection-view-cell-ios-tutorial)
 * [Live Rendering iOS Tutorial](https://www.ioscreator.com/tutorials/live-rendering-ios-tutorial)
 * [PasteBoard iOS Tutorial](https://www.ioscreator.com/tutorials/pasteboard-ios-tutorial)
 * [Send iMessage iOS Tutorial](https://www.ioscreator.com/tutorials/send-imessage-ios-tutorial)
@@ -35,10 +34,14 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Slider iOS Tutorial](https://www.ioscreator.com/tutorials/slider-ios-tutorial) 
 * [Switch iOS Tutorial](https://www.ioscreator.com/tutorials/switch-ios-tutorial)
 * [Picker View iOS Tutorial](https://www.ioscreator.com/tutorials/picker-ios-tutorial)
-* [Collection View iOS Tutorial](https://www.ioscreator.com/tutorials/collection-view-controller-ios-tutorial)
 * [Dynamic Types iOS Tutorial](https://www.ioscreator.com/tutorials/dynamic-types-ios-tutorial)
 * [Progress View iOS Tutorial](https://www.ioscreator.com/tutorials/progress-view-ios-tutorial)
 * [iOS AutoLayout 완벽 가이드](https://www.inflearn.com/course/autolayout#)
+
+### **Collection View Controllers** 
+* [Collection View iOS Tutorial](https://www.ioscreator.com/tutorials/collection-view-controller-ios-tutorial)
+* [Custom Collection View Cell iOS Tutorial](https://www.ioscreator.com/tutorials/custom-collection-view-cell-ios-tutorial)
+* [Add Items to Collection View Controller iOS Tutorial](https://www.ioscreator.com/tutorials/add-item-collection-view-controller-ios-tutorial)
 
 ### **Table View Controllers** 
 * [Delete Rows from Table View iOS Tutorial](https://www.ioscreator.com/tutorials/delete-rows-table-view-ios-tutorial-ios12)
