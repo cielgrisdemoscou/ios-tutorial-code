@@ -1,13 +1,45 @@
 # iOS Tutorial 📱
 
-What articles and courses have I studied from [Raywenderlich's website](http://www.raywenderlich.com/category/ios), [iOScreator](https://www.ioscreator.com), and else.
+What articles and courses have I studied from [Raywenderlich's website](http://www.raywenderlich.com/category/ios), [Udemy](https://www.udemy.com), [iOScreator](https://www.ioscreator.com) and else.
 
 ## **Core Concepts**
-* [Core Data with SwiftUI Tutorial: Getting Started](https://www.raywenderlich.com/9335365-core-data-with-swiftui-tutorial-getting-started)
-* [Modern, Efficient Core Data](https://www.raywenderlich.com/14958063-modern-efficient-core-data)
+
+### **Online Courses**
+* [Core Data and Realm - Master Data Persistence for iOS](https://www.udemy.com/course/core-data-and-realm-database/)
 * [iOS Concurrency 프로그래밍, 동기 비동기 처리 그리고 GCD/Operation](https://www.inflearn.com/course/iOS-Concurrency-GCD-Operation#)
 
+### Raywenderlich
+* [Core Data with SwiftUI Tutorial: Getting Started](https://www.raywenderlich.com/9335365-core-data-with-swiftui-tutorial-getting-started)
+* [Modern, Efficient Core Data](https://www.raywenderlich.com/14958063-modern-efficient-core-data)
+
+## **Architecture Patterns**
+
+### **Online Courses**
+* [MVVM Design Pattern Using Swift in iOS](https://www.udemy.com/course/mastering-mvvm-for-ios/)
+
+### Raywenderlich
+* [iOS MVVM Tutorial: Refactoring from MVC](https://www.raywenderlich.com/6733535-ios-mvvm-tutorial-refactoring-from-mvc)
+
+## **Networking**
+
+### Raywenderlich
+* [URLSession Tutorial: Getting Started](https://www.raywenderlich.com/3244963-urlsession-tutorial-getting-started)
+* [URLSession Programming Guide](https://developer.apple.com/documentation/foundation/url_loading_system#//apple_ref/doc/uid/TP40013509-SW1)
+* [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/11395893-push-notifications-tutorial-getting-started)
+
+### **iOScreator**
+* [Disable Apple Transport Security iOS Tutorial](https://www.ioscreator.com/tutorials/disable-apple-transport-security-ios-tutorial)
+* [Parse XML iOS Tutorial](https://www.ioscreator.com/tutorials/parse-xml-ios-tutorial)
+* [Local Notification iOS Tutorial](https://www.ioscreator.com/tutorials/local-notification-ios-tutorial)
+* [Multipeer Connectivity iOS Tutorial](https://www.ioscreator.com/tutorials/multipeer-connectivity-ios-tutorial)
+* [JSON Parsing iOS Tutorial](https://www.ioscreator.com/tutorials/json-ios-tutorial)
+
 ## **Views and View Controllers**
+
+### **Online Courses**
+* [iOS AutoLayout 완벽 가이드](https://www.inflearn.com/course/autolayout#)
+
+### **iOScreator**
 * [Safari View Controller iOS Tutorial](https://www.ioscreator.com/tutorials/safari-view-controller-ios-tutorial)
 * [WKWebView With UIToolbar and UIActivityIndicatorView Tutorial](https://medium.com/@KentaKodashima/ios-wkwebview-tutorial-b7f8cf1bffe0)
 * [Open PDF iOS Tutorial](https://www.ioscreator.com/tutorials/open-pdf-ios-tutorial)
@@ -42,14 +74,9 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Circular Image View iOS Tutorial](https://www.ioscreator.com/tutorials/circular-image-view-ios-tutorial)
 * [Background Fetch iOS Tutorial](https://www.ioscreator.com/tutorials/background-fetch-ios-tutorial)
 * [Navigation Controller iOS Tutorial](https://www.ioscreator.com/tutorials/navigation-controller-ios-tutorial)
-* [iOS AutoLayout 완벽 가이드](https://www.inflearn.com/course/autolayout#)
-
-### **Collection View Controllers** 
 * [Collection View iOS Tutorial](https://www.ioscreator.com/tutorials/collection-view-controller-ios-tutorial)
 * [Custom Collection View Cell iOS Tutorial](https://www.ioscreator.com/tutorials/custom-collection-view-cell-ios-tutorial)
 * [Add Items to Collection View Controller iOS Tutorial](https://www.ioscreator.com/tutorials/add-item-collection-view-controller-ios-tutorial)
-
-### **Table View Controllers** 
 * [Delete Rows from Table View iOS Tutorial](https://www.ioscreator.com/tutorials/delete-rows-table-view-ios-tutorial-ios12)
 * [Delete Multiple Rows from Table View iOS Tutorial](https://www.ioscreator.com/tutorials/delete-multiple-rows-table-view-ios-tutorial)
 * [Reorder Rows from Table View iOS Tutorial](https://www.ioscreator.com/tutorials/reorder-rows-table-view-ios-tutorial-ios12)
@@ -58,7 +85,9 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Prototype Cells in Table View iOS Tutorial](https://www.ioscreator.com/tutorials/prototype-cells-table-view-ios-tutorial) 
 * [Swipe Table View Cell for Custom Actions iOS Tutorial](https://www.ioscreator.com/tutorials/swipe-table-view-cell-custom-actions-ios-tutorial)
 
-### **Gesture**
+## **Gesture**
+
+### **iOScreator**
 * [Screen Edge Pan Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/screen-edge-pan-gesture-ios-tutorial)
 * [Scale Image with Pinch Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/scale-images-pinch-gesture-ios-tutorial) 
 * [Drag Views with Gestures iOS Tutorial](https://www.ioscreator.com/tutorials/drag-views-gestures-ios-tutorial)
@@ -69,6 +98,8 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Swipe Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/swipe-gesture-ios-tutorial)
 
 ## **Graphics & Animation APIs**
+
+### **iOScreator**
 * [Core Image iOS Tutorial](https://github.com/cielgrisdemoscou/ios-tutorial-code/blob/master/iOS12CoreImageTutorial/README.md)
 * [Blur Effect iOS Tutorial](https://www.ioscreator.com/tutorials/blur-effect-ios-tutorial)
 * [Draw shapes with Core Graphics iOS Tutorial](https://www.ioscreator.com/tutorials/draw-shapes-core-graphics-ios-tutorial)
@@ -76,44 +107,23 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Collision Detection with UIKit Dynamics iOS Tutorial](https://www.ioscreator.com/tutorials/collision-detection-uikit-dynamics-ios-tutorial)
 * [UIKit Dynamics Attachment Behaviour iOS Tutorial](https://www.ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-ios-tutorial)
 
-## **Architecture Patterns**
-* [iOS MVVM Tutorial: Refactoring from MVC](https://www.raywenderlich.com/6733535-ios-mvvm-tutorial-refactoring-from-mvc)
-* [MVVM, MVC, VIPER 전격 비교](https://academy.realm.io/kr/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/)
-
-## **Networking**
-* [Disable Apple Transport Security iOS Tutorial](https://www.ioscreator.com/tutorials/disable-apple-transport-security-ios-tutorial)
-* [URLSession Tutorial: Getting Started](https://www.raywenderlich.com/3244963-urlsession-tutorial-getting-started)
-* [URLSession Programming Guide](https://developer.apple.com/documentation/foundation/url_loading_system#//apple_ref/doc/uid/TP40013509-SW1)
-* [Parse XML iOS Tutorial](https://www.ioscreator.com/tutorials/parse-xml-ios-tutorial)
-* [Local Notification iOS Tutorial](https://www.ioscreator.com/tutorials/local-notification-ios-tutorial)
-* [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/11395893-push-notifications-tutorial-getting-started)
-* [Multipeer Connectivity iOS Tutorial](https://www.ioscreator.com/tutorials/multipeer-connectivity-ios-tutorial)
-
-### **JSON**
-* [왕초보를 위한 Codable/JSON Encoding and Decoding](https://zeddios.tistory.com/373)
-* [왕초보를 위한 Codable - CodingKey](https://zeddios.tistory.com/394)
-* [Key decoding strategy](https://zeddios.tistory.com/497)
-* [DateDecoding(Encoding) Strategy](https://zeddios.tistory.com/397)
-* [Decodable](https://zeddios.tistory.com/577)
-* [JSON Parsing iOS Tutorial](https://www.ioscreator.com/tutorials/json-ios-tutorial)
-* [왕초보를 위한 JSON Parsing - 1](https://zeddios.tistory.com/90)
-* [왕초보를 위한 JSON Parsing - 2](https://zeddios.tistory.com/148)
-* [왕초보를 위한 JSON Parsing - 3](https://zeddios.tistory.com/153)
-* [왕초보를 위한 JSON Parsing - 4](https://zeddios.tistory.com/154)
-* [왕초보를 위한 JSON Parsing - 5](https://zeddios.tistory.com/156)
-* [JSONSerialization/jsonObject](https://zeddios.tistory.com/152?category=685736)
-
 ## **Saving and Loading Data**
+
+### **iOScreator**
 * [UserDefaults iOS Tutorial](https://www.ioscreator.com/tutorials/user-defaults-ios-tutorial)
 * [Load Data from Property List iOS Tutorial](https://www.ioscreator.com/tutorials/load-data-property-list-ios-tutorial)
 * [Pass Data Between View Controllers iOS Tutorial](https://www.ioscreator.com/tutorials/pass-data-view-controller-ios-tutorial)
 
 ## **Map & Location APIs**
+
+### **iOScreator**
 * [Request Permission in Core Location iOS Tutorial](https://www.ioscreator.com/tutorials/request-permission-core-location-ios-tutorial)
 * [MapKit iOS Tutorial](https://www.ioscreator.com/tutorials/mapkit-ios-tutorial)
 * [MapKit Flyover iOS Tutorial](https://www.ioscreator.com/tutorials/mapkit-flyover-ios-tutorial)
 
 ## **Other iOS Tutorials**
+
+### **iOScreator**
 * [Play Vibration iOS Tutorial](https://www.ioscreator.com/tutorials/play-vibration-ios-tutorial)
 * [Touch ID iOS Tutorial](https://www.ioscreator.com/tutorials/touch-id-ios-tutorial)
 * [Airprint iOS Tutorial](https://www.ioscreator.com/tutorials/airprint-ios-tutorial)
