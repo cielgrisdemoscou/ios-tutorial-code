@@ -137,3 +137,4 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [SwiftUI Getting Started Tutorial](https://www.ioscreator.com/tutorials/swiftui-getting-started-tutorial)
 * [SwiftUI Stack Tutorial](https://www.ioscreator.com/tutorials/swiftui-stack-tutorial)
 * [SwiftUI Text View Tutorial](https://www.ioscreator.com/tutorials/swiftui-text-view-tutorial)
+* [SwiftUI List Tutorial](https://www.ioscreator.com/tutorials/swiftui-list-tutorial)
