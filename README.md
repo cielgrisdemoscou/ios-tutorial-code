@@ -139,3 +139,4 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [SwiftUI Text View Tutorial](https://www.ioscreator.com/tutorials/swiftui-text-view-tutorial)
 * [SwiftUI List Tutorial](https://www.ioscreator.com/tutorials/swiftui-list-tutorial)
 * [SwiftUI State Tutorial](https://www.ioscreator.com/tutorials/swiftui-state-tutorial)
+* [SwiftUI Alert Tutorial](https://www.ioscreator.com/tutorials/swiftui-alert-tutorial)
