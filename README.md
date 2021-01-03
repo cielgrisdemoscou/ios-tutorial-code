@@ -141,3 +141,4 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [SwiftUI State Tutorial](https://www.ioscreator.com/tutorials/swiftui-state-tutorial)
 * [SwiftUI Alert Tutorial](https://www.ioscreator.com/tutorials/swiftui-alert-tutorial)
 * [SwiftUI Integrate with UIKit Tutorial](https://www.ioscreator.com/tutorials/swiftui-integrate-uikit-tutorial)
+* [SwiftUI Segmented Control Tutorial](https://www.ioscreator.com/tutorials/swiftui-segmented-control-tutorial)
