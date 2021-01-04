@@ -153,6 +153,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [SwiftUI Shadow Tutorial](https://www.ioscreator.com/tutorials/swiftui-shadow-tutorial)
 * [SwiftUI Rotate View Tutorial](https://www.ioscreator.com/tutorials/swiftui-rotate-view-tutorial)
 * [SwiftUI TextField Tutorial](https://www.ioscreator.com/tutorials/swiftui-textfield-tutorial)
+* [SwiftUI Scale Image Tutorial](https://www.ioscreator.com/tutorials/swiftui-scale-image-tutorial) 
 
 ## **Gesture**
 
