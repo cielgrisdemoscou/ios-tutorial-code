@@ -9,7 +9,6 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [iOS Concurrency 프로그래밍, 동기 비동기 처리 그리고 GCD/Operation](https://www.inflearn.com/course/iOS-Concurrency-GCD-Operation#)
 
 ### Raywenderlich
-* [Core Data with SwiftUI Tutorial: Getting Started](https://www.raywenderlich.com/9335365-core-data-with-swiftui-tutorial-getting-started)
 * [Modern, Efficient Core Data](https://www.raywenderlich.com/14958063-modern-efficient-core-data)
 
 ## **Architecture Patterns**
@@ -131,6 +130,11 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 
 # SwiftUI
 
+## **Core Concepts**
+
+### Raywenderlich
+* [Core Data with SwiftUI Tutorial: Getting Started](https://www.raywenderlich.com/9335365-core-data-with-swiftui-tutorial-getting-started)
+
 ## **Views and View Controllers**
 
 ### **iOScreator**
@@ -144,3 +148,4 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [SwiftUI Segmented Control Tutorial](https://www.ioscreator.com/tutorials/swiftui-segmented-control-tutorial)
 * [SwiftUI Picker Tutorial](https://www.ioscreator.com/tutorials/swiftui-picker-tutorial)
 * [SwiftUI Slider Tutorial](https://www.ioscreator.com/tutorials/swiftui-slider-tutorial)
+* [SwiftUI ActionSheet Tutorial](https://www.ioscreator.com/tutorials/swiftui-action-sheet-tutorial) 
