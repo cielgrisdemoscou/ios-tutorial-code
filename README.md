@@ -155,6 +155,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [SwiftUI TextField Tutorial](https://www.ioscreator.com/tutorials/swiftui-textfield-tutorial)
 * [SwiftUI Scale Image Tutorial](https://www.ioscreator.com/tutorials/swiftui-scale-image-tutorial) 
 * [SwiftUI Button Tutorial](https://www.ioscreator.com/tutorials/swiftui-button-tutorial)
+* [SwiftUI Basic Shapes Tutorial](https://www.ioscreator.com/tutorials/swiftui-basic-shapes-tutorial)
 
 ## **Gesture**
 
