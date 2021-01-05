@@ -160,6 +160,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [SwiftUI Circular Image Tutorial](https://www.ioscreator.com/tutorials/swiftui-circular-image-tutorial)
 * [SwiftUI ObservableObject Tutorial](https://www.ioscreator.com/tutorials/swiftui-observable-object-tutorial)
 * [SwiftUI Tab View Tutorial](https://www.ioscreator.com/tutorials/swiftui-tab-view-tutorial)
+* [SwiftUI EnvironmentObject Tutorial](https://www.ioscreator.com/tutorials/swiftui-environment-object-tutorial) 
 
 ## **Gesture**
 
