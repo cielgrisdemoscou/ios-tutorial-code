@@ -1,8 +1,23 @@
-# iOS Tutorial 📱
+# 📱 iOS Tutorial
 
-What articles and courses have I studied from [Raywenderlich's website](http://www.raywenderlich.com/category/ios), [Udemy](https://www.udemy.com), [iOScreator](https://www.ioscreator.com) and else.
+What articles and courses have I studied from [Raywenderlich](http://www.raywenderlich.com/category/ios), [Udemy](https://www.udemy.com), [iOScreator](https://www.ioscreator.com) and else.
 
-## **Core Concepts**
+### Table of contents
+
+* [💻 Core Concepts](#-💻-core-concepts)
+* [🖥 SwiftUI Core Concepts](#-🖥-swiftui-core-concepts)
+* [🛠 Architecture Patterns](#-🛠-architecture-patterns) 
+* [📡 Networking](#-📡-networking)
+* [📷 Views and View Controllers](#-📷-views-and-view-controllers)
+* [📠 SwiftUI Views and View Controllers](#-📠-swiftui-views-and-view-controllers)
+* [👆 Gesture](#-👆-gesture)
+* [☝️ SwiftUI Gesture](#-☝️-swiftui-gesture)
+* [💃 Graphics & Animation APIs](#-💃-graphics-&-animation-apis)
+* [📁 Saving and Loading Data](#-📁-saving-and-loading-data)
+* [📍 Map & Location APIs](#-📍-map-&-location-apis)
+* [📚 Other iOS Tutorials](#-📚-other-ios-tutorials)
+
+## **💻 Core Concepts**
 
 ### **Online Courses**
 * [Core Data and Realm - Master Data Persistence for iOS](https://www.udemy.com/course/core-data-and-realm-database/)
@@ -11,7 +26,12 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 ### Raywenderlich
 * [Modern, Efficient Core Data](https://www.raywenderlich.com/14958063-modern-efficient-core-data)
 
-## **Architecture Patterns**
+## **🖥 SwiftUI Core Concepts**
+
+### Raywenderlich
+* [Core Data with SwiftUI Tutorial: Getting Started](https://www.raywenderlich.com/9335365-core-data-with-swiftui-tutorial-getting-started)
+
+## **🛠 Architecture Patterns**
 
 ### **Online Courses**
 * [MVVM Design Pattern Using Swift in iOS](https://www.udemy.com/course/mastering-mvvm-for-ios/)
@@ -19,7 +39,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 ### Raywenderlich
 * [iOS MVVM Tutorial: Refactoring from MVC](https://www.raywenderlich.com/6733535-ios-mvvm-tutorial-refactoring-from-mvc)
 
-## **Networking**
+## **📡 Networking**
 
 ### Raywenderlich
 * [URLSession Tutorial: Getting Started](https://www.raywenderlich.com/3244963-urlsession-tutorial-getting-started)
@@ -33,7 +53,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Multipeer Connectivity iOS Tutorial](https://www.ioscreator.com/tutorials/multipeer-connectivity-ios-tutorial)
 * [JSON Parsing iOS Tutorial](https://www.ioscreator.com/tutorials/json-ios-tutorial)
 
-## **Views and View Controllers**
+## **📷 Views and View Controllers**
 
 ### **Online Courses**
 * [iOS AutoLayout 완벽 가이드](https://www.inflearn.com/course/autolayout#)
@@ -84,58 +104,7 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [Prototype Cells in Table View iOS Tutorial](https://www.ioscreator.com/tutorials/prototype-cells-table-view-ios-tutorial) 
 * [Swipe Table View Cell for Custom Actions iOS Tutorial](https://www.ioscreator.com/tutorials/swipe-table-view-cell-custom-actions-ios-tutorial)
 
-## **Gesture**
-
-### **iOScreator**
-* [Screen Edge Pan Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/screen-edge-pan-gesture-ios-tutorial)
-* [Scale Image with Pinch Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/scale-images-pinch-gesture-ios-tutorial) 
-* [Drag Views with Gestures iOS Tutorial](https://www.ioscreator.com/tutorials/drag-views-gestures-ios-tutorial)
-* [Snap Behaviour iOS Tutorial](https://www.ioscreator.com/tutorials/snap-behaviour-ios-tutorial)
-* [Pull to Refresh iOS Tutorial](https://www.ioscreator.com/tutorials/pull-to-refresh-ios-tutorial)
-* [Detect Long Press Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/long-press-gesture-ios-tutorial)
-* [Spring Animation iOS Tutorial](https://www.ioscreator.com/tutorials/spring-animation-ios-tutorial) 
-* [Swipe Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/swipe-gesture-ios-tutorial)
-
-## **Graphics & Animation APIs**
-
-### **iOScreator**
-* [Core Image iOS Tutorial](https://github.com/cielgrisdemoscou/ios-tutorial-code/blob/master/iOS12CoreImageTutorial/README.md)
-* [Blur Effect iOS Tutorial](https://www.ioscreator.com/tutorials/blur-effect-ios-tutorial)
-* [Draw shapes with Core Graphics iOS Tutorial](https://www.ioscreator.com/tutorials/draw-shapes-core-graphics-ios-tutorial)
-* [Rotate Image iOS Tutorial](https://www.ioscreator.com/tutorials/rotate-image-ios-tutorial)
-* [Collision Detection with UIKit Dynamics iOS Tutorial](https://www.ioscreator.com/tutorials/collision-detection-uikit-dynamics-ios-tutorial)
-* [UIKit Dynamics Attachment Behaviour iOS Tutorial](https://www.ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-ios-tutorial)
-
-## **Saving and Loading Data**
-
-### **iOScreator**
-* [UserDefaults iOS Tutorial](https://www.ioscreator.com/tutorials/user-defaults-ios-tutorial)
-* [Load Data from Property List iOS Tutorial](https://www.ioscreator.com/tutorials/load-data-property-list-ios-tutorial)
-* [Pass Data Between View Controllers iOS Tutorial](https://www.ioscreator.com/tutorials/pass-data-view-controller-ios-tutorial)
-
-## **Map & Location APIs**
-
-### **iOScreator**
-* [Request Permission in Core Location iOS Tutorial](https://www.ioscreator.com/tutorials/request-permission-core-location-ios-tutorial)
-* [MapKit iOS Tutorial](https://www.ioscreator.com/tutorials/mapkit-ios-tutorial)
-* [MapKit Flyover iOS Tutorial](https://www.ioscreator.com/tutorials/mapkit-flyover-ios-tutorial)
-
-## **Other iOS Tutorials**
-
-### **iOScreator**
-* [Play Vibration iOS Tutorial](https://www.ioscreator.com/tutorials/play-vibration-ios-tutorial)
-* [Touch ID iOS Tutorial](https://www.ioscreator.com/tutorials/touch-id-ios-tutorial)
-* [Airprint iOS Tutorial](https://www.ioscreator.com/tutorials/airprint-ios-tutorial)
-* [Spell Checker iOS Tutorial](https://www.ioscreator.com/tutorials/spell-checker-ios-tutorial)
-
-# SwiftUI
-
-## **Core Concepts**
-
-### Raywenderlich
-* [Core Data with SwiftUI Tutorial: Getting Started](https://www.raywenderlich.com/9335365-core-data-with-swiftui-tutorial-getting-started)
-
-## **Views and View Controllers**
+## **📠 SwiftUI Views and View Controllers**
 
 ### **iOScreator**
 * [SwiftUI Getting Started Tutorial](https://www.ioscreator.com/tutorials/swiftui-getting-started-tutorial)
@@ -162,7 +131,51 @@ What articles and courses have I studied from [Raywenderlich's website](http://w
 * [SwiftUI Tab View Tutorial](https://www.ioscreator.com/tutorials/swiftui-tab-view-tutorial)
 * [SwiftUI EnvironmentObject Tutorial](https://www.ioscreator.com/tutorials/swiftui-environment-object-tutorial) 
 
-## **Gesture**
+## **👆 Gesture**
+
+### **iOScreator**
+* [Screen Edge Pan Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/screen-edge-pan-gesture-ios-tutorial)
+* [Scale Image with Pinch Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/scale-images-pinch-gesture-ios-tutorial) 
+* [Drag Views with Gestures iOS Tutorial](https://www.ioscreator.com/tutorials/drag-views-gestures-ios-tutorial)
+* [Snap Behaviour iOS Tutorial](https://www.ioscreator.com/tutorials/snap-behaviour-ios-tutorial)
+* [Pull to Refresh iOS Tutorial](https://www.ioscreator.com/tutorials/pull-to-refresh-ios-tutorial)
+* [Detect Long Press Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/long-press-gesture-ios-tutorial)
+* [Spring Animation iOS Tutorial](https://www.ioscreator.com/tutorials/spring-animation-ios-tutorial) 
+* [Swipe Gesture iOS Tutorial](https://www.ioscreator.com/tutorials/swipe-gesture-ios-tutorial)
+
+## **☝️ SwiftUI Gesture**
 
 ### **iOScreator**
 * [SwiftUI Gesture Tutorial](https://www.ioscreator.com/tutorials/swiftui-gesture-tutorial)
+
+## **💃 Graphics & Animation APIs**
+
+### **iOScreator**
+* [Core Image iOS Tutorial](https://github.com/cielgrisdemoscou/ios-tutorial-code/blob/master/iOS12CoreImageTutorial/README.md)
+* [Blur Effect iOS Tutorial](https://www.ioscreator.com/tutorials/blur-effect-ios-tutorial)
+* [Draw shapes with Core Graphics iOS Tutorial](https://www.ioscreator.com/tutorials/draw-shapes-core-graphics-ios-tutorial)
+* [Rotate Image iOS Tutorial](https://www.ioscreator.com/tutorials/rotate-image-ios-tutorial)
+* [Collision Detection with UIKit Dynamics iOS Tutorial](https://www.ioscreator.com/tutorials/collision-detection-uikit-dynamics-ios-tutorial)
+* [UIKit Dynamics Attachment Behaviour iOS Tutorial](https://www.ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-ios-tutorial)
+
+## **📁 Saving and Loading Data**
+
+### **iOScreator**
+* [UserDefaults iOS Tutorial](https://www.ioscreator.com/tutorials/user-defaults-ios-tutorial)
+* [Load Data from Property List iOS Tutorial](https://www.ioscreator.com/tutorials/load-data-property-list-ios-tutorial)
+* [Pass Data Between View Controllers iOS Tutorial](https://www.ioscreator.com/tutorials/pass-data-view-controller-ios-tutorial)
+
+## **📍 Map & Location APIs**
+
+### **iOScreator**
+* [Request Permission in Core Location iOS Tutorial](https://www.ioscreator.com/tutorials/request-permission-core-location-ios-tutorial)
+* [MapKit iOS Tutorial](https://www.ioscreator.com/tutorials/mapkit-ios-tutorial)
+* [MapKit Flyover iOS Tutorial](https://www.ioscreator.com/tutorials/mapkit-flyover-ios-tutorial)
+
+## **📚 Other iOS Tutorials**
+
+### **iOScreator**
+* [Play Vibration iOS Tutorial](https://www.ioscreator.com/tutorials/play-vibration-ios-tutorial)
+* [Touch ID iOS Tutorial](https://www.ioscreator.com/tutorials/touch-id-ios-tutorial)
+* [Airprint iOS Tutorial](https://www.ioscreator.com/tutorials/airprint-ios-tutorial)
+* [Spell Checker iOS Tutorial](https://www.ioscreator.com/tutorials/spell-checker-ios-tutorial)
