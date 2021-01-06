@@ -4,18 +4,18 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 
 ### Table of contents
 
-* [💻 Core Concepts](#-💻-core-concepts)
-* [🖥 SwiftUI Core Concepts](#-🖥-swiftui-core-concepts)
-* [🛠 Architecture Patterns](#-🛠-architecture-patterns) 
-* [📡 Networking](#-📡-networking)
-* [📷 Views and View Controllers](#-📷-views-and-view-controllers)
-* [📠 SwiftUI Views and View Controllers](#-📠-swiftui-views-and-view-controllers)
-* [👆 Gesture](#-👆-gesture)
-* [☝️ SwiftUI Gesture](#-☝️-swiftui-gesture)
-* [💃 Graphics & Animation APIs](#-💃-graphics-&-animation-apis)
-* [📁 Saving and Loading Data](#-📁-saving-and-loading-data)
-* [📍 Map & Location APIs](#-📍-map-&-location-apis)
-* [📚 Other iOS Tutorials](#-📚-other-ios-tutorials)
+* [Core Concepts](#-core-concepts)
+* [SwiftUI Core Concepts](#-swiftui-core-concepts)
+* [Architecture Patterns](#-architecture-patterns) 
+* [Networking](#-networking)
+* [Views and View Controllers](#-views-and-view-controllers)
+* [SwiftUI Views and View Controllers](#-swiftui-views-and-view-controllers)
+* [Gesture](#-gesture)
+* [SwiftUI Gesture](#-swiftui-gesture)
+* [Graphics & Animation APIs](#-graphics-&-animation-apis)
+* [Saving and Loading Data](#-saving-and-loading-data)
+* [Map & Location APIs](#-map-&-location-apis)
+* [Other iOS Tutorials](#-other-ios-tutorials)
 
 ## **💻 Core Concepts**
 
@@ -130,6 +130,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI ObservableObject Tutorial](https://www.ioscreator.com/tutorials/swiftui-observable-object-tutorial)
 * [SwiftUI Tab View Tutorial](https://www.ioscreator.com/tutorials/swiftui-tab-view-tutorial)
 * [SwiftUI EnvironmentObject Tutorial](https://www.ioscreator.com/tutorials/swiftui-environment-object-tutorial) 
+* [SwiftUI Preview Multiple Devices Tutorial](https://www.ioscreator.com/tutorials/swiftui-preview-multiple-devices-tutorial) 
 
 ## **👆 Gesture**
 
