@@ -12,7 +12,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI Views and View Controllers](#-swiftui-views-and-view-controllers)
 * [Gesture](#-gesture)
 * [SwiftUI Gesture](#-swiftui-gesture)
-* [Graphics & Animation APIs](#-graphics-&-animation-apis)
+* [Graphics & Animation APIs](#-graphics-animation-apis)
 * [Saving and Loading Data](#-saving-and-loading-data)
 * [Map & Location APIs](#-map-&-location-apis)
 * [Other iOS Tutorials](#-other-ios-tutorials)
