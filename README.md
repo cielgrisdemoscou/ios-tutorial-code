@@ -135,6 +135,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI Modal Tutorial](https://www.ioscreator.com/tutorials/swiftui-modal-tutorial)
 * [SwiftUI Date Picker Tutorial](https://www.ioscreator.com/tutorials/swiftui-date-picker-tutorial)
 * [SwiftUI Dark Mode Preview Tutorial](https://www.ioscreator.com/tutorials/swiftui-dark-mode-preview-tutorial)
+* [SwiftUI Secure TextField Tutorial](https://www.ioscreator.com/tutorials/swiftui-secure-textfield-tutorial)
 
 ## **👆 Gesture**
 
