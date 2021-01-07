@@ -154,6 +154,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 ### **iOScreator**
 * [SwiftUI Gesture Tutorial](https://www.ioscreator.com/tutorials/swiftui-gesture-tutorial)
 * [SwiftUI Drag Gesture Tutorial](https://www.ioscreator.com/tutorials/swiftui-drag-gesture-tutorial)
+* [SwiftUI Magnification Gesture Tutorial](https://www.ioscreator.com/tutorials/swiftui-magnification-gesture-tutorial)
 
 ## **💃 Graphics & Animation APIs**
 
