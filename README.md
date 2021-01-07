@@ -13,7 +13,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Gesture](#-gesture)
 * [SwiftUI Gesture](#-swiftui-gesture)
 * [Graphics & Animation APIs](#-graphics--animation-apis)
-* [SwiftUI Graphics & Animation APIs](#-swiftui-graphics--animation-apis)
+* [SwiftUI Graphics & Animation APIs](#-swfitui-graphics--animation-apis)
 * [Saving and Loading Data](#-saving-and-loading-data)
 * [Map & Location APIs](#-map--location-apis)
 * [Other iOS Tutorials](#-other-ios-tutorials)
@@ -137,6 +137,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI Date Picker Tutorial](https://www.ioscreator.com/tutorials/swiftui-date-picker-tutorial)
 * [SwiftUI Dark Mode Preview Tutorial](https://www.ioscreator.com/tutorials/swiftui-dark-mode-preview-tutorial)
 * [SwiftUI Secure TextField Tutorial](https://www.ioscreator.com/tutorials/swiftui-secure-textfield-tutorial)
+* [SwiftUI Draw Gradient Tutorial](https://www.ioscreator.com/tutorials/swiftui-draw-gradient-tutorial)
 
 ## **👆 Gesture**
 
