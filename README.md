@@ -13,6 +13,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Gesture](#-gesture)
 * [SwiftUI Gesture](#-swiftui-gesture)
 * [Graphics & Animation APIs](#-graphics--animation-apis)
+* [SwiftUI Graphics & Animation APIs](#-swiftui-graphics--animation-apis)
 * [Saving and Loading Data](#-saving-and-loading-data)
 * [Map & Location APIs](#-map--location-apis)
 * [Other iOS Tutorials](#-other-ios-tutorials)
@@ -165,6 +166,11 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Rotate Image iOS Tutorial](https://www.ioscreator.com/tutorials/rotate-image-ios-tutorial)
 * [Collision Detection with UIKit Dynamics iOS Tutorial](https://www.ioscreator.com/tutorials/collision-detection-uikit-dynamics-ios-tutorial)
 * [UIKit Dynamics Attachment Behaviour iOS Tutorial](https://www.ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-ios-tutorial)
+
+## **🕺 SwfitUI Graphics & Animation APIs**
+
+### **iOScreator**
+* [SwiftUI Animation Tutorial](https://www.ioscreator.com/tutorials/swiftui-animation-tutorial)
 
 ## **📁 Saving and Loading Data**
 
