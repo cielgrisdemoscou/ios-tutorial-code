@@ -138,6 +138,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI Dark Mode Preview Tutorial](https://www.ioscreator.com/tutorials/swiftui-dark-mode-preview-tutorial)
 * [SwiftUI Secure TextField Tutorial](https://www.ioscreator.com/tutorials/swiftui-secure-textfield-tutorial)
 * [SwiftUI Draw Gradient Tutorial](https://www.ioscreator.com/tutorials/swiftui-draw-gradient-tutorial)
+* [SwiftUI Header and Footer List Tutorial](https://www.ioscreator.com/tutorials/swiftui-header-footer-list-tutorial)
 
 ## **👆 Gesture**
 
