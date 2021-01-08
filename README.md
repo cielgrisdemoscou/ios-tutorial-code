@@ -141,6 +141,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI Header and Footer List Tutorial](https://www.ioscreator.com/tutorials/swiftui-header-footer-list-tutorial)
 * [SwiftUI Overlay Views Tutorial](https://www.ioscreator.com/tutorials/swiftui-overlay-views-tutorial)
 * [SwiftUI Spacer Tutorial](https://www.ioscreator.com/tutorials/swiftui-spacer-tutorial)
+* [SwiftUI Delete Rows from List Tutorial](https://www.ioscreator.com/tutorials/swiftui-delete-rows-list-tutorial)
 
 ## **👆 Gesture**
 
