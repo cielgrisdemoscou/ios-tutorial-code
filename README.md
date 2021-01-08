@@ -173,6 +173,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 
 ### **iOScreator**
 * [SwiftUI Animation Tutorial](https://www.ioscreator.com/tutorials/swiftui-animation-tutorial)
+* [SwiftUI Spring Animation Tutorial](https://www.ioscreator.com/tutorials/swiftui-spring-animation-tutorial)
 
 ## **📁 Saving and Loading Data**
 
