@@ -143,6 +143,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI Spacer Tutorial](https://www.ioscreator.com/tutorials/swiftui-spacer-tutorial)
 * [SwiftUI Delete Rows from List Tutorial](https://www.ioscreator.com/tutorials/swiftui-delete-rows-list-tutorial)
 * [SwiftUI GeometryReader Tutorial](https://www.ioscreator.com/tutorials/swiftui-geometryreader-tutorial)
+* [SwiftUI Add Rows to List Tutorial](https://www.ioscreator.com/tutorials/swiftui-add-rows-list-tutorial)
 
 ## **👆 Gesture**
 
