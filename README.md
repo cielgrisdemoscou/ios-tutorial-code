@@ -8,6 +8,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI Core Concepts](#-swiftui-core-concepts)
 * [Architecture Patterns](#-architecture-patterns) 
 * [Networking](#-networking)
+* [SwiftUI Networking](#-swiftui-networking)
 * [Views and View Controllers](#-views-and-view-controllers)
 * [SwiftUI Views and View Controllers](#-swiftui-views-and-view-controllers)
 * [Gesture](#-gesture)
@@ -53,6 +54,11 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Local Notification iOS Tutorial](https://www.ioscreator.com/tutorials/local-notification-ios-tutorial)
 * [Multipeer Connectivity iOS Tutorial](https://www.ioscreator.com/tutorials/multipeer-connectivity-ios-tutorial)
 * [JSON Parsing iOS Tutorial](https://www.ioscreator.com/tutorials/json-ios-tutorial)
+
+## **🛰 SwiftUI Networking**
+
+### **iOScreator**
+* [SwiftUI Fetch JSON Data into List](https://www.ioscreator.com/tutorials/swiftui-json-list-tutorial)
 
 ## **📷 Views and View Controllers**
 
