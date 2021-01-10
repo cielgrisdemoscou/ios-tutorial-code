@@ -155,6 +155,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI Divider Tutorial](https://www.ioscreator.com/tutorials/swiftui-divider-tutorial)
 * [SwiftUI Calculator Tutorial](https://www.ioscreator.com/tutorials/swiftui-calculator-tutorial)
 * [SwiftUI Circular Progress Bar Tutorial](https://www.ioscreator.com/tutorials/swiftui-circular-progress-bar-tutorial)
+* [SwiftUI Delete Multiple Rows from List Tutorial](https://www.ioscreator.com/tutorials/swiftui-delete-multiple-rows-list-tutorial)
 
 ## **👆 Gesture**
 
