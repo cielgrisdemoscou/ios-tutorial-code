@@ -18,6 +18,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Saving and Loading Data](#-saving-and-loading-data)
 * [Map & Location APIs](#-map--location-apis)
 * [Other iOS Tutorials](#-other-ios-tutorials)
+* [UI & UX](#-ui--ux)
 
 ## **💻 Core Concepts**
 
@@ -64,6 +65,11 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 
 ### **Online Courses**
 * [iOS AutoLayout 완벽 가이드](https://www.inflearn.com/course/autolayout#)
+
+### Raywenderlich
+* [UICollectionView Tutorial: Getting Started](https://www.raywenderlich.com/9334-uicollectionview-tutorial-getting-started)
+* [UICollectionView Tutorial: Reusable Views, Selection and Reordering](https://www.raywenderlich.com/9477-uicollectionview-tutorial-reusable-views-selection-and-reordering)
+* [Creating a Custom Calendar Control for iOS](https://www.raywenderlich.com/10787749-creating-a-custom-calendar-control-for-ios)
 
 ### **iOScreator**
 * [Safari View Controller iOS Tutorial](https://www.ioscreator.com/tutorials/safari-view-controller-ios-tutorial)
@@ -216,3 +222,8 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Touch ID iOS Tutorial](https://www.ioscreator.com/tutorials/touch-id-ios-tutorial)
 * [Airprint iOS Tutorial](https://www.ioscreator.com/tutorials/airprint-ios-tutorial)
 * [Spell Checker iOS Tutorial](https://www.ioscreator.com/tutorials/spell-checker-ios-tutorial)
+
+## **👨‍🎨 UI & UX** 
+
+### **Online Courses**
+* [iOS 12 & Swift 5 - App Design, UI/UX plus Development](https://www.udemy.com/course/app-design-uiux-plus-ios-development/)
