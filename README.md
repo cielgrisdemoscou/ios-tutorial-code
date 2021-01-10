@@ -148,6 +148,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI Context Menu Tutorial](https://www.ioscreator.com/tutorials/swiftui-context-menu-tutorial)
 * [SwiftUI Divider Tutorial](https://www.ioscreator.com/tutorials/swiftui-divider-tutorial)
 * [SwiftUI Calculator Tutorial](https://www.ioscreator.com/tutorials/swiftui-calculator-tutorial)
+* [SwiftUI Circular Progress Bar Tutorial](https://www.ioscreator.com/tutorials/swiftui-circular-progress-bar-tutorial)
 
 ## **👆 Gesture**
 
