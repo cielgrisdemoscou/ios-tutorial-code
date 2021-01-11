@@ -69,7 +69,6 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 ### Raywenderlich
 * [UICollectionView Tutorial: Getting Started](https://www.raywenderlich.com/9334-uicollectionview-tutorial-getting-started)
 * [UICollectionView Tutorial: Reusable Views, Selection and Reordering](https://www.raywenderlich.com/9477-uicollectionview-tutorial-reusable-views-selection-and-reordering)
-* [Creating a Custom Calendar Control for iOS](https://www.raywenderlich.com/10787749-creating-a-custom-calendar-control-for-ios)
 
 ### **iOScreator**
 * [Safari View Controller iOS Tutorial](https://www.ioscreator.com/tutorials/safari-view-controller-ios-tutorial)
@@ -163,6 +162,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI Circular Progress Bar Tutorial](https://www.ioscreator.com/tutorials/swiftui-circular-progress-bar-tutorial)
 * [SwiftUI Delete Multiple Rows from List Tutorial](https://www.ioscreator.com/tutorials/swiftui-delete-multiple-rows-list-tutorial)
 * [SwiftUI Custom Shapes Tutorial](https://www.ioscreator.com/tutorials/swiftui-custom-shape-tutorial)
+* [SwiftUI TextEditor Tutorial](https://www.ioscreator.com/tutorials/swiftui-texteditor-tutorial)
 
 ## **👆 Gesture**
 
