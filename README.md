@@ -163,6 +163,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI Delete Multiple Rows from List Tutorial](https://www.ioscreator.com/tutorials/swiftui-delete-multiple-rows-list-tutorial)
 * [SwiftUI Custom Shapes Tutorial](https://www.ioscreator.com/tutorials/swiftui-custom-shape-tutorial)
 * [SwiftUI TextEditor Tutorial](https://www.ioscreator.com/tutorials/swiftui-texteditor-tutorial)
+* [SwiftUI Progress View Tutorial](https://www.ioscreator.com/tutorials/swiftui-progress-view-tutorial)
 
 ## **👆 Gesture**
 
