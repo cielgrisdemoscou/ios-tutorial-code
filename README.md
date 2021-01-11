@@ -67,6 +67,8 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [iOS AutoLayout 완벽 가이드](https://www.inflearn.com/course/autolayout#)
 
 ### Raywenderlich
+* [iOS Storyboards: Getting Started](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
+* [iOS Storyboards: Segues and More](https://www.raywenderlich.com/5055396-ios-storyboards-segues-and-more)
 * [UICollectionView Tutorial: Getting Started](https://www.raywenderlich.com/9334-uicollectionview-tutorial-getting-started)
 * [UICollectionView Tutorial: Reusable Views, Selection and Reordering](https://www.raywenderlich.com/9477-uicollectionview-tutorial-reusable-views-selection-and-reordering)
 
