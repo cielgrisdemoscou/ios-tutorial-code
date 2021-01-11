@@ -165,6 +165,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI TextEditor Tutorial](https://www.ioscreator.com/tutorials/swiftui-texteditor-tutorial)
 * [SwiftUI Progress View Tutorial](https://www.ioscreator.com/tutorials/swiftui-progress-view-tutorial)
 * [SwiftUI Link Tutorial](https://www.ioscreator.com/tutorials/swiftui-link-tutorial)
+* [SwiftUI Toolbar Tutorial](https://www.ioscreator.com/tutorials/swiftui-toolbar-tutorial)
 
 ## **👆 Gesture**
 
