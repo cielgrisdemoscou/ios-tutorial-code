@@ -169,6 +169,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI Link Tutorial](https://www.ioscreator.com/tutorials/swiftui-link-tutorial)
 * [SwiftUI Toolbar Tutorial](https://www.ioscreator.com/tutorials/swiftui-toolbar-tutorial)
 * [SwiftUI Lazy Grid Tutorial](https://www.ioscreator.com/tutorials/swiftui-lazy-grid-tutorial)
+* [SwiftUI PlaceHolder Tutorial](https://www.ioscreator.com/tutorials/swiftui-placeholder-tutorial)
 
 ## **👆 Gesture**
 
