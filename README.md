@@ -231,6 +231,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Touch ID iOS Tutorial](https://www.ioscreator.com/tutorials/touch-id-ios-tutorial)
 * [Airprint iOS Tutorial](https://www.ioscreator.com/tutorials/airprint-ios-tutorial)
 * [Spell Checker iOS Tutorial](https://www.ioscreator.com/tutorials/spell-checker-ios-tutorial)
+* [SwiftUI Video Player Tutorial](https://www.ioscreator.com/tutorials/swiftui-video-player-tutorial)
 
 ## **👨‍🎨 UI & UX** 
 
