@@ -173,6 +173,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI Custom View Modifier Tutorial](https://www.ioscreator.com/tutorials/swiftui-custom-view-modifier-tutorial)
 * [SwiftUI Pinned Views Tutorial](https://www.ioscreator.com/tutorials/swiftui-pinned-views-tutorial)
 * [SwiftUI GroupBox Tutorial](https://www.ioscreator.com/tutorials/swiftui-groupbox-tutorial)
+* [SwiftUI Color Picker Tutorial](https://www.ioscreator.com/tutorials/swiftui-color-picker-tutorial)
 
 ## **👆 Gesture**
 
