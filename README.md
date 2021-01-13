@@ -193,6 +193,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI Magnification Gesture Tutorial](https://www.ioscreator.com/tutorials/swiftui-magnification-gesture-tutorial)
 * [SwiftUI Rotation Gesture Tutorial](https://www.ioscreator.com/tutorials/swiftui-rotation-gesture-tutorial)
 * [SwiftUI Long Press Gesture Tutorial](https://www.ioscreator.com/tutorials/swiftui-long-press-gesture-tutorial)
+* [SwiftUI Simultaneous Gestures Tutorial](https://www.ioscreator.com/tutorials/swiftui-simultaneous-gestures-tutorial)
 
 ## **💃 Graphics & Animation APIs**
 
