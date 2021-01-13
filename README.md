@@ -172,6 +172,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI PlaceHolder Tutorial](https://www.ioscreator.com/tutorials/swiftui-placeholder-tutorial)
 * [SwiftUI Custom View Modifier Tutorial](https://www.ioscreator.com/tutorials/swiftui-custom-view-modifier-tutorial)
 * [SwiftUI Pinned Views Tutorial](https://www.ioscreator.com/tutorials/swiftui-pinned-views-tutorial)
+* [SwiftUI GroupBox Tutorial](https://www.ioscreator.com/tutorials/swiftui-groupbox-tutorial)
 
 ## **👆 Gesture**
 
