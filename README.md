@@ -27,6 +27,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [iOS Concurrency 프로그래밍, 동기 비동기 처리 그리고 GCD/Operation](https://www.inflearn.com/course/iOS-Concurrency-GCD-Operation#)
 
 ### Raywenderlich
+* [Getting Started with Core Data Tutorial](https://www.raywenderlich.com/7569-getting-started-with-core-data-tutorial)
 * [Modern, Efficient Core Data](https://www.raywenderlich.com/14958063-modern-efficient-core-data)
 
 ## **🖥 SwiftUI Core Concepts**
