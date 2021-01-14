@@ -176,6 +176,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI Pinned Views Tutorial](https://www.ioscreator.com/tutorials/swiftui-pinned-views-tutorial)
 * [SwiftUI GroupBox Tutorial](https://www.ioscreator.com/tutorials/swiftui-groupbox-tutorial)
 * [SwiftUI Color Picker Tutorial](https://www.ioscreator.com/tutorials/swiftui-color-picker-tutorial)
+* [SwiftUI DisclosureGroup Tutorial](https://www.ioscreator.com/tutorials/swiftui-disclosure-group-tutorial)
 
 ## **👆 Gesture**
 
