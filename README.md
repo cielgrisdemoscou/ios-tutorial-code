@@ -177,6 +177,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI GroupBox Tutorial](https://www.ioscreator.com/tutorials/swiftui-groupbox-tutorial)
 * [SwiftUI Color Picker Tutorial](https://www.ioscreator.com/tutorials/swiftui-color-picker-tutorial)
 * [SwiftUI DisclosureGroup Tutorial](https://www.ioscreator.com/tutorials/swiftui-disclosure-group-tutorial)
+* [SwiftUI ScaleEffect Tutorial](https://www.ioscreator.com/tutorials/swiftui-scale-effect-tutorial)
 
 ## **👆 Gesture**
 
