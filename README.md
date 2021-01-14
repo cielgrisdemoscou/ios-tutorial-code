@@ -228,6 +228,11 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [MapKit iOS Tutorial](https://www.ioscreator.com/tutorials/mapkit-ios-tutorial)
 * [MapKit Flyover iOS Tutorial](https://www.ioscreator.com/tutorials/mapkit-flyover-ios-tutorial)
 
+## **📌 SwiftUI Map & Location APIs**
+
+### **iOScreator**
+* [SwiftUI MapKit Tutorial](https://www.ioscreator.com/tutorials/swiftui-mapkit-tutorial)
+
 ## **📚 Other iOS Tutorials**
 
 ### **iOScreator**
