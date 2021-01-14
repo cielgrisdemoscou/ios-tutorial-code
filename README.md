@@ -73,7 +73,6 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [iOS Storyboards: Segues and More](https://www.raywenderlich.com/5055396-ios-storyboards-segues-and-more)
 * [UICollectionView Tutorial: Getting Started](https://www.raywenderlich.com/9334-uicollectionview-tutorial-getting-started)
 * [UICollectionView Tutorial: Reusable Views, Selection and Reordering](https://www.raywenderlich.com/9477-uicollectionview-tutorial-reusable-views-selection-and-reordering)
-* [Getting Started With Widgets](https://www.raywenderlich.com/11303363-getting-started-with-widgets)
 
 ### **iOScreator**
 * [Safari View Controller iOS Tutorial](https://www.ioscreator.com/tutorials/safari-view-controller-ios-tutorial)
@@ -122,6 +121,12 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Swipe Table View Cell for Custom Actions iOS Tutorial](https://www.ioscreator.com/tutorials/swipe-table-view-cell-custom-actions-ios-tutorial)
 
 ## **📠 SwiftUI Views and View Controllers**
+
+### **Apple Developer Documentation**
+* [Creating a Widget Extension](https://developer.apple.com/documentation/widgetkit/creating-a-widget-extension)
+
+### Raywenderlich
+* [Getting Started With Widgets](https://www.raywenderlich.com/11303363-getting-started-with-widgets)
 
 ### **iOScreator**
 * [SwiftUI Getting Started Tutorial](https://www.ioscreator.com/tutorials/swiftui-getting-started-tutorial)
