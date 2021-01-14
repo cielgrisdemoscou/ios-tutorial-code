@@ -5,10 +5,8 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 ### Table of contents
 
 * [Core Concepts](#-core-concepts)
-* [SwiftUI Core Concepts](#-swiftui-core-concepts)
 * [Architecture Patterns](#-architecture-patterns) 
 * [Networking](#-networking)
-* [SwiftUI Networking](#-swiftui-networking)
 * [Views and View Controllers](#-views-and-view-controllers)
 * [SwiftUI Views and View Controllers](#-swiftui-views-and-view-controllers)
 * [Gesture](#-gesture)
@@ -30,10 +28,6 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 ### Raywenderlich
 * [Getting Started with Core Data Tutorial](https://www.raywenderlich.com/7569-getting-started-with-core-data-tutorial)
 * [Modern, Efficient Core Data](https://www.raywenderlich.com/14958063-modern-efficient-core-data)
-
-## **🖥 SwiftUI Core Concepts**
-
-### Raywenderlich
 * [Core Data with SwiftUI Tutorial: Getting Started](https://www.raywenderlich.com/9335365-core-data-with-swiftui-tutorial-getting-started)
 
 ## **🛠 Architecture Patterns**
@@ -57,10 +51,6 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Local Notification iOS Tutorial](https://www.ioscreator.com/tutorials/local-notification-ios-tutorial)
 * [Multipeer Connectivity iOS Tutorial](https://www.ioscreator.com/tutorials/multipeer-connectivity-ios-tutorial)
 * [JSON Parsing iOS Tutorial](https://www.ioscreator.com/tutorials/json-ios-tutorial)
-
-## **🛰 SwiftUI Networking**
-
-### **iOScreator**
 * [SwiftUI Fetch JSON Data into List](https://www.ioscreator.com/tutorials/swiftui-json-list-tutorial)
 
 ## **📷 Views and View Controllers**
@@ -71,6 +61,9 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 ### Raywenderlich
 * [iOS Storyboards: Getting Started](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
 * [iOS Storyboards: Segues and More](https://www.raywenderlich.com/5055396-ios-storyboards-segues-and-more)
+* [Easier Auto Layout: Coding Constraints in iOS 9](https://www.raywenderlich.com/1169-easier-auto-layout-coding-constraints-in-ios-9)
+* [Building an App with only code using Auto Layout](https://www.raywenderlich.com/6004856-building-an-app-with-only-code-using-auto-layout)
+* [SnapKit for iOS: Constraints in a Snap](https://www.raywenderlich.com/3225401-snapkit-for-ios-constraints-in-a-snap)
 * [UICollectionView Tutorial: Getting Started](https://www.raywenderlich.com/9334-uicollectionview-tutorial-getting-started)
 * [UICollectionView Tutorial: Reusable Views, Selection and Reordering](https://www.raywenderlich.com/9477-uicollectionview-tutorial-reusable-views-selection-and-reordering)
 
