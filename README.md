@@ -17,6 +17,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI Graphics & Animation APIs](#-swfitui-graphics--animation-apis)
 * [Saving and Loading Data](#-saving-and-loading-data)
 * [Map & Location APIs](#-map--location-apis)
+* [SwiftUI Map & Location APIs](#-swiftui-map--location-apis)
 * [Other iOS Tutorials](#-other-ios-tutorials)
 * [UI & UX](#-ui--ux)
 
@@ -232,6 +233,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 
 ### **iOScreator**
 * [SwiftUI MapKit Tutorial](https://www.ioscreator.com/tutorials/swiftui-mapkit-tutorial)
+* [SwiftUI Map Type Tutorial](https://www.ioscreator.com/tutorials/swiftui-map-type-tutorial)
 
 ## **📚 Other iOS Tutorials**
 
