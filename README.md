@@ -29,6 +29,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Getting Started with Core Data Tutorial](https://www.raywenderlich.com/7569-getting-started-with-core-data-tutorial)
 * [Modern, Efficient Core Data](https://www.raywenderlich.com/14958063-modern-efficient-core-data)
 * [Core Data with SwiftUI Tutorial: Getting Started](https://www.raywenderlich.com/9335365-core-data-with-swiftui-tutorial-getting-started)
+* [Realm with SwiftUI Tutorial: Getting Started](https://www.raywenderlich.com/12235561-realm-with-swiftui-tutorial-getting-started)
 
 ## **🛠 Architecture Patterns**
 
@@ -61,6 +62,8 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 ### Raywenderlich
 * [iOS Storyboards: Getting Started](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
 * [iOS Storyboards: Segues and More](https://www.raywenderlich.com/5055396-ios-storyboards-segues-and-more)
+* [Adaptive Layout Tutorial in iOS 12: Getting Started](https://www.raywenderlich.com/1343912-adaptive-layout-tutorial-in-ios-12-getting-started)
+* [Auto Layout Tutorial in iOS: Getting Started](https://www.raywenderlich.com/811496-auto-layout-tutorial-in-ios-getting-started)
 * [Easier Auto Layout: Coding Constraints in iOS 9](https://www.raywenderlich.com/1169-easier-auto-layout-coding-constraints-in-ios-9)
 * [Building an App with only code using Auto Layout](https://www.raywenderlich.com/6004856-building-an-app-with-only-code-using-auto-layout)
 * [SnapKit for iOS: Constraints in a Snap](https://www.raywenderlich.com/3225401-snapkit-for-ios-constraints-in-a-snap)
