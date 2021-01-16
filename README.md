@@ -17,6 +17,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Map & Location APIs](#-map--location-apis)
 * [SwiftUI Map & Location APIs](#-swiftui-map--location-apis)
 * [Other iOS Tutorials](#-other-ios-tutorials)
+* [RxSwift](#-rxswift)
 * [UI & UX](#-ui--ux)
 
 ## **💻 Core Concepts**
@@ -248,6 +249,11 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Airprint iOS Tutorial](https://www.ioscreator.com/tutorials/airprint-ios-tutorial)
 * [Spell Checker iOS Tutorial](https://www.ioscreator.com/tutorials/spell-checker-ios-tutorial)
 * [SwiftUI Video Player Tutorial](https://www.ioscreator.com/tutorials/swiftui-video-player-tutorial)
+
+## **👩‍🔬 RxSwift** 
+
+### **Online Courses**
+* [Mastering RxSwift in iOS](https://www.udemy.com/course/mastering-rxswift-in-ios/)
 
 ## **👨‍🎨 UI & UX** 
 
