@@ -38,6 +38,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 
 ### Raywenderlich
 * [iOS MVVM Tutorial: Refactoring from MVC](https://www.raywenderlich.com/6733535-ios-mvvm-tutorial-refactoring-from-mvc)
+* [Model-View-Controller (MVC) in iOS – A Modern Approach](https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach)
 
 ## **📡 Networking**
 
