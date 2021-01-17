@@ -16,8 +16,8 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Saving and Loading Data](#-saving-and-loading-data)
 * [Map & Location APIs](#-map--location-apis)
 * [SwiftUI Map & Location APIs](#-swiftui-map--location-apis)
-* [Other iOS Tutorials](#-other-ios-tutorials)
 * [RxSwift](#-rxswift)
+* [Other iOS Tutorials](#-other-ios-tutorials)
 * [UI & UX](#-ui--ux)
 
 ## **💻 Core Concepts**
@@ -26,7 +26,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Core Data and Realm - Master Data Persistence for iOS](https://www.udemy.com/course/core-data-and-realm-database/)
 * [iOS Concurrency 프로그래밍, 동기 비동기 처리 그리고 GCD/Operation](https://www.inflearn.com/course/iOS-Concurrency-GCD-Operation#)
 
-### Raywenderlich
+### **Raywenderlich**
 * [Getting Started with Core Data Tutorial](https://www.raywenderlich.com/7569-getting-started-with-core-data-tutorial)
 * [Modern, Efficient Core Data](https://www.raywenderlich.com/14958063-modern-efficient-core-data)
 * [Core Data with SwiftUI Tutorial: Getting Started](https://www.raywenderlich.com/9335365-core-data-with-swiftui-tutorial-getting-started)
@@ -37,13 +37,13 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 ### **Online Courses**
 * [MVVM Design Pattern Using Swift in iOS](https://www.udemy.com/course/mastering-mvvm-for-ios/)
 
-### Raywenderlich
+### **Raywenderlich**
 * [iOS MVVM Tutorial: Refactoring from MVC](https://www.raywenderlich.com/6733535-ios-mvvm-tutorial-refactoring-from-mvc)
 * [Model-View-Controller (MVC) in iOS – A Modern Approach](https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach)
 
 ## **📡 Networking**
 
-### Raywenderlich
+### **Raywenderlich**
 * [URLSession Tutorial: Getting Started](https://www.raywenderlich.com/3244963-urlsession-tutorial-getting-started)
 * [URLSession Programming Guide](https://developer.apple.com/documentation/foundation/url_loading_system#//apple_ref/doc/uid/TP40013509-SW1)
 * [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/11395893-push-notifications-tutorial-getting-started)
@@ -61,7 +61,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 ### **Online Courses**
 * [iOS AutoLayout 완벽 가이드](https://www.inflearn.com/course/autolayout#)
 
-### Raywenderlich
+### **Raywenderlich**
 * [iOS Storyboards: Getting Started](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
 * [iOS Storyboards: Segues and More](https://www.raywenderlich.com/5055396-ios-storyboards-segues-and-more)
 * [Adaptive Layout Tutorial in iOS 12: Getting Started](https://www.raywenderlich.com/1343912-adaptive-layout-tutorial-in-ios-12-getting-started)
@@ -123,7 +123,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 ### **Apple Developer Documentation**
 * [Creating a Widget Extension](https://developer.apple.com/documentation/widgetkit/creating-a-widget-extension)
 
-### Raywenderlich
+### **Raywenderlich**
 * [Getting Started With Widgets](https://www.raywenderlich.com/11303363-getting-started-with-widgets)
 
 ### **iOScreator**
@@ -241,7 +241,15 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [SwiftUI MapKit Tutorial](https://www.ioscreator.com/tutorials/swiftui-mapkit-tutorial)
 * [SwiftUI Map Type Tutorial](https://www.ioscreator.com/tutorials/swiftui-map-type-tutorial)
 
+## **👩‍🔬 RxSwift** 
+
+### **Online Courses**
+* [Mastering RxSwift in iOS](https://www.udemy.com/course/mastering-rxswift-in-ios/)
+
 ## **📚 Other iOS Tutorials**
+
+### **Raywenderlich**
+* [Swift Package Manager for iOS](https://www.raywenderlich.com/7242045-swift-package-manager-for-ios)
 
 ### **iOScreator**
 * [Play Vibration iOS Tutorial](https://www.ioscreator.com/tutorials/play-vibration-ios-tutorial)
@@ -249,11 +257,6 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Airprint iOS Tutorial](https://www.ioscreator.com/tutorials/airprint-ios-tutorial)
 * [Spell Checker iOS Tutorial](https://www.ioscreator.com/tutorials/spell-checker-ios-tutorial)
 * [SwiftUI Video Player Tutorial](https://www.ioscreator.com/tutorials/swiftui-video-player-tutorial)
-
-## **👩‍🔬 RxSwift** 
-
-### **Online Courses**
-* [Mastering RxSwift in iOS](https://www.udemy.com/course/mastering-rxswift-in-ios/)
 
 ## **👨‍🎨 UI & UX** 
 
