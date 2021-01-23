@@ -262,3 +262,4 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 
 ### **Online Courses**
 * [iOS 12 & Swift 5 - App Design, UI/UX plus Development](https://www.udemy.com/course/app-design-uiux-plus-ios-development/)
+* [피그마(Figma)를 활용한 UI디자인 입문부터 실전까지 A to Z](https://www.inflearn.com/course/%ED%94%BC%EA%B7%B8%EB%A7%88-ui%EB%94%94%EC%9E%90%EC%9D%B8#)
