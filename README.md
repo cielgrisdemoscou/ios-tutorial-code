@@ -17,6 +17,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Map & Location APIs](#-map--location-apis)
 * [SwiftUI Map & Location APIs](#-swiftui-map--location-apis)
 * [RxSwift](#-rxswift)
+* [Unit Testing](#-unit-testing)
 * [Other iOS Tutorials](#-other-ios-tutorials)
 * [UI & UX](#-ui--ux)
 
@@ -245,6 +246,11 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 
 ### **Online Courses**
 * [Mastering RxSwift in iOS](https://www.udemy.com/course/mastering-rxswift-in-ios/)
+
+## **💎 Unit Testing**
+
+### **Online Courses**
+* [Unit Testing Swift Mobile App](https://www.udemy.com/course/unit-testing-ios-mobile-app/)
 
 ## **📚 Other iOS Tutorials**
 
