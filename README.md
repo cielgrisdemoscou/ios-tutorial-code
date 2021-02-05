@@ -27,6 +27,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Stanford - Developing iOS 11 Apps with Swift](https://youtube.com/playlist?list=PL3d_SFOiG7_8ofjyKzX6Nl1wZehbdiZC_)
 * [Core Data and Realm - Master Data Persistence for iOS](https://www.udemy.com/course/core-data-and-realm-database/)
 * [iOS Concurrency 프로그래밍, 동기 비동기 처리 그리고 GCD/Operation](https://www.inflearn.com/course/iOS-Concurrency-GCD-Operation#)
+* [iOS Concurrency with GCD and Operations](https://www.raywenderlich.com/9461083-ios-concurrency-with-gcd-and-operations)
 
 ### **Raywenderlich**
 * [Getting Started with Core Data Tutorial](https://www.raywenderlich.com/7569-getting-started-with-core-data-tutorial)
