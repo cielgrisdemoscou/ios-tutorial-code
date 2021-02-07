@@ -248,6 +248,11 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 
 ### **Online Courses**
 * [Mastering RxSwift in iOS](https://www.udemy.com/course/mastering-rxswift-in-ios/)
+* [RxSwift 4시간에 끝내기](https://youtu.be/w5Qmie-GbiA)
+* [RxSwift 4시간에 끝내기 시즌2](https://youtu.be/iHKBNYMWd5I)
+
+### **Raywenderlich**
+* [Getting Started With RxSwift and RxCocoa](https://www.raywenderlich.com/1228891-getting-started-with-rxswift-and-rxcocoa)
 
 ## **💎 Unit Testing**
 
