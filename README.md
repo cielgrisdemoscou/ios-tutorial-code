@@ -17,6 +17,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Map & Location APIs](#-map--location-apis)
 * [SwiftUI Map & Location APIs](#-swiftui-map--location-apis)
 * [RxSwift](#-rxswift)
+* [CoreML & ARKit](#-coreml--arkit)
 * [Unit Testing](#-unit-testing)
 * [Other iOS Tutorials](#-other-ios-tutorials)
 * [UI & UX](#-ui--ux)
@@ -253,6 +254,11 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 
 ### **Raywenderlich**
 * [Getting Started With RxSwift and RxCocoa](https://www.raywenderlich.com/1228891-getting-started-with-rxswift-and-rxcocoa)
+
+## **🤖 CoreML & ARKit**
+
+### **Apple Developer Documentation**
+* [Creating an Image Classifier Model](https://developer.apple.com/documentation/createml/creating_an_image_classifier_model)
 
 ## **💎 Unit Testing**
 
