@@ -43,9 +43,15 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [LBTATools](https://github.com/bhlvoong/LBTATools)
 * [IBPCollectionViewCompositionalLayout](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout)
 
+### **Onboarding** 
+* [paper-onboarding](https://github.com/Ramotion/paper-onboarding)
+
 ### **Animation**
 * [Lottie](https://github.com/airbnb/lottie-ios)
 * [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)
+
+### **Popup**
+* [NativePopup](https://github.com/mono0926/NativePopup)
 
 ### **Convention**
 * [SwiftLint](https://github.com/realm/SwiftLint)
@@ -90,6 +96,7 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [URLSession Tutorial: Getting Started](https://www.raywenderlich.com/3244963-urlsession-tutorial-getting-started)
 * [URLSession Programming Guide](https://developer.apple.com/documentation/foundation/url_loading_system#//apple_ref/doc/uid/TP40013509-SW1)
 * [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/11395893-push-notifications-tutorial-getting-started)
+* [Alamofire 5 Tutorial for iOS: Getting Started](https://www.raywenderlich.com/6587213-alamofire-5-tutorial-for-ios-getting-started)
 
 ### **iOScreator**
 * [Disable Apple Transport Security iOS Tutorial](https://www.ioscreator.com/tutorials/disable-apple-transport-security-ios-tutorial)
