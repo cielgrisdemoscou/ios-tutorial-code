@@ -4,7 +4,6 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 
 ### Table of contents
 
-* [Useful iOS Libraries](#-useful-ios-libraries)
 * [Core Concepts](#-core-concepts)
 * [Architecture Patterns](#-architecture-patterns) 
 * [Networking](#-networking)
@@ -22,50 +21,6 @@ What articles and courses have I studied from [Raywenderlich](http://www.raywend
 * [Unit Testing](#-unit-testing)
 * [Other iOS Tutorials](#-other-ios-tutorials)
 * [UI & UX](#-ui--ux)
-
-## **🚀 Useful iOS Libraries** 
-
-### **Concourrency**
-* [RxSwift](https://github.com/ReactiveX/RxSwift)
-
-### **Core Data**
-* [Realm](https://github.com/realm/realm-cocoa)
-
-### **NetWorking**
-* [Alamofire](https://github.com/Alamofire/Alamofire)
-* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
-* [Sync](https://github.com/3lvis/Sync)
-
-### **Auto Layout** 
-* [SnapKit](https://github.com/SnapKit/SnapKit)
-
-### **Layout**
-* [LBTATools](https://github.com/bhlvoong/LBTATools)
-* [IBPCollectionViewCompositionalLayout](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout)
-
-### **Onboarding** 
-* [paper-onboarding](https://github.com/Ramotion/paper-onboarding)
-
-### **Animation**
-* [Lottie](https://github.com/airbnb/lottie-ios)
-* [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)
-
-### **Popup**
-* [NativePopup](https://github.com/mono0926/NativePopup)
-
-### **Convention**
-* [SwiftLint](https://github.com/realm/SwiftLint)
-
-### **Image** 
-* [SDWebImage](https://github.com/SDWebImage/SDWebImage)
-* [Kingfisher](https://github.com/onevcat/Kingfisher)
-
-### **API**
-* [Public APIs](https://github.com/public-apis/public-apis)
-
-### **Architecture** 
-
-* [awesome iOS architecture](https://github.com/onmyway133/awesome-ios-architecture)
 
 ## **💻 Core Concepts**
 
